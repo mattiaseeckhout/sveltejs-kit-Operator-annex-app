@@ -1,0 +1,43 @@
+/*Blauw Factry App heather:→ #209CEE
+Blauw op site:→ #0F78B6
+
+Groen op site:→ #8AA512 → #8AA60F
+
+Rood op site:→ #D22E3F
+
+Oranje op site:→ #F49B32
+*/
+
+
+body {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+div {
+	
+	padding: 0%;
+	margin: 0%;
+	min-height: 20px;
+	min-width: 50px;
+
+}
+
+.onder {
+	Position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	background-color: rgb(138, 140, 145);
+	padding: 0%;
+	margin-left: 0%;
+	height: 30px;
+	font-size: 8px;
+
+}
+
+fieldset {
+	font-size: 16px;
+}
